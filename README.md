@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Immagine Profilo](images/nome-immagine.png)
+![Immagine Profilo](images/Screenshot_2025-09-14-16-59-33-082_com.ftw_and_co.happn-edit (1).jpg
+dom338
+dom338
+Add files via upload)
 
 My name is Domenico Petrillo, I’m from Italy, currently based in Barcelona (Spain) and I’m studying to become a game designer and programmer
 - 🌱 I’m currently learning development cross-platform application and video game development at ENTI Barcelona

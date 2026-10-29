@@ -5,8 +5,15 @@
 
 
 My name is Domenico Petrillo, I’m from Italy, currently based in Barcelona (Spain) and I’m studying to become a game designer and programmer
-- 🌱 I’m currently learning development cross-platform application and video game development at ENTI Barcelona
+- 🌱 I’m currently learning development of cross-platform application and video game development at ENTI Barcelona
+- 🔭 I’m currently working on a pirate-themed bullet hell game for the final assignment on the course I’m taking
 - 📫 How to reach me: domenicopetrillod@gmail.com
+
+# hobbies:
+
+- ⚡archery
+- ⚡walking in the mountains
+- ⚡play videogames
 
 <!--
 **dom338/dom338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

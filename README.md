@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Domenico Petrillo, I’m from Italy and I’m studying to become a game designer and programmer
 - 🌱 I’m currently learning development cross-platform application and video game development at ENTI Barcelona
 - 📫 How to reach me: domenicopetrillod@gmail.com
 

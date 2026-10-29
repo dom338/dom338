@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Immagine Profilo](images/Profilo.png)
+<img width="100" height="100" alt="Profilo" src="https://github.com/user-attachments/assets/76cc7220-c613-4bc2-8b78-9f51d81a0a25" />
+
 
 
 My name is Domenico Petrillo, I’m from Italy, currently based in Barcelona (Spain) and I’m studying to become a game designer and programmer

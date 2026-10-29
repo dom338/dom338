@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning development cross-platform application and video game development at ENTI Barcelona
+- 📫 How to reach me: domenicopetrillod@gmail.com
+
 <!--
 **dom338/dom338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
